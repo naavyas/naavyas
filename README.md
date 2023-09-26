@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naavyas
-- 👀 I’m interested in reading and art
-- 🌱 I’m currently learning language C , python and java through the Harvard CS50 course.
+- 👀 I’m interested in Data Art/visulaization and Machine Learning
+- 🌱 I can code in C , python and java.
 - 📫 You can reach out to me through this platform. On the look out for interesting Courses. 
 
 <!---
